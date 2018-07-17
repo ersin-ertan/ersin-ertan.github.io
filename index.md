@@ -1,4 +1,4 @@
-# First send a Travel-To Request | # Now they Accept the Request | # Then they set a Geofence
+First send a Travel-To Request | Now they Accept the Request | Then they set a Geofence
 
 Before you head out, send a Travel-To Request to your destination | They can either accept or decline your request for location sharing | Once you enter that area, they receive a notification
 
