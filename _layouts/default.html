@@ -17,9 +17,9 @@
   <body>
     <header>
       <div class="inner">
-        <a href="www.google.com">
-          <img src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" style="width:323px;height:125px;border:0;">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
     </header>
 
