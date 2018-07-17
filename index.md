@@ -10,7 +10,7 @@ They can either accept or decline your request for location sharing
 
 Once you enter that area, they receive a notification
 
-[Link](www.google.com) and ![Image](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)
+![Image](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)
 
 
 ### Jekyll Themes
