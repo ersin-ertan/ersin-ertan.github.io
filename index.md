@@ -1,5 +1,5 @@
 ## First send a Travel-To Request
-Before you head out, send a Travel-To Request to your destination
+Before you head out, send a Travel-To Request to your destination friend
 
 ## Now they Accept the Request
 They can either accept or decline your request for location sharing
